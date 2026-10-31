@@ -1,8 +1,8 @@
 # Bitcoin-Pricing-Model
-This repo is an ongoing project that uses Metcalfe's law as a pricing model for Bitcoin. Please review the full README for information about the project, its current status, and any gaps in the information.
+This repo is an ongoing project that uses Metcalfe's law as a pricing model for Bitcoin. Please review the full README for information about the project, its current status, and gaps in information.
 
 ## Project Overview:
-- The idea for this project came from reading *Metcalfe's Law as a Model for Bitcoin's Value* by *Timothy F. Peterson*. In the paper Peterson uses MetCalfe's Law to aproximate the price of Bitcoin over larger periods of time. After reading the paper, I wondered how analyzing the supply chain of Bitcoin may affect the pricing model Peterson creates in his paper.
+- The idea for this project came from reading *Metcalfe's Law as a Model for Bitcoin's Value* by *Timothy F. Peterson*. In the paper Peterson uses MetCalfe's Law to approximate the price of Bitcoin over larger periods of time. After reading the paper, I wondered how analyzing the supply chain of Bitcoin may affect the pricing model Peterson creates in his paper.
 - Hence, the full version of this project aims to take data from more sources that affect the supply and try to approximate the price of Bitcoin at a higher level (short-term pricing, more accurate approximations of price, etc.). The data I look at are things such as energy prices in mining-dense regions and Hashrate. 
 
 ## Current Status:
